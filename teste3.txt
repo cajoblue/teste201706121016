@@ -1,3 +1,10 @@
 fich3
+<<<<<<< HEAD
 Acrescentei mais uma linha
 testing on command line
+=======
+Acrescentei mais uma linha 
+XPTO500,pela claoud
+alwaystesting
+testing on cloud
+>>>>>>> 5fbc2eaeda86673c9f659ad958a52b1b8abce8f1
