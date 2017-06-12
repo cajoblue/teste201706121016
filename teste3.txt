@@ -2,3 +2,4 @@ fich3
 Acrescentei mais uma linha 
 XPTO500,pela claoud
 alwaystesting
+testing on cloud
